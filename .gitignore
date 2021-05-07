@@ -1,0 +1,16 @@
+*.ipj
+*.lck
+OldVersions/
+OldVersions/*
+CNC_full_assembly/
+CNC_full_assembly/*
+OldVersions/*
+OldVersions/
+*.fins
+*.fsat
+*.ftes
+*.fwes
+*.fmsh
+*.fres
+*.fwiz
+*.log
